@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "Form Maizou Bot",
+  "version": "0.0.0",
+  "default_locale": "ja_JP",
+  "description": "フォームへの入力内容を覚えていてくれるボット",
+}
